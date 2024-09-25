@@ -1,0 +1,10 @@
+{
+    "apiVersion": 2,
+    "title": "GB Block",
+    "name": "gb-blocks/gb-custom-block",
+    "category": "layout",
+    "icon": "format-aside",
+    "editorScript": "file:./block.js",
+    "editorStyle": "file:./editor.css",
+    "style": "file:./style.css"
+}
